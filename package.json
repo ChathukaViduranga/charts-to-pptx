@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "highcharts": "^11.4.1",
+    "highcharts-react-official": "^2.1.2",
+    "html2canvas": "^1.4.1",
+    "next": "14.2.3",
+    "pptxgenjs": "^3.12.0",
     "react": "^18",
-    "react-dom": "^18",
-    "next": "14.2.3"
+    "react-dom": "^18"
   },
   "devDependencies": {
     "postcss": "^8",
